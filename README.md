@@ -4,13 +4,6 @@
 
 ---
 
-<h2>🚀 Demo</h2>
-
-<!-- Add your deployed link here -->
-<p>Check out the live version: <a href="https://your-live-site-link.com" target="_blank">Play Now</a></p>
-
----
-
 <h2>📸 Screenshots</h2>
 
 <p><strong>🎮 Game Start:</strong></p>
